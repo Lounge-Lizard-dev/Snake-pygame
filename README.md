@@ -1,7 +1,4 @@
 # Snake-pygame
-# Big-antibot
-
-
 
 Getting Started
 
