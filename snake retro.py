@@ -19,18 +19,18 @@ lNAME = []
 
 # IMAGES :
 ##########
-HEAD = pygame.image.load("head.png")
-FOND_B = pygame.image.load("fond.png")
-BODY = pygame.image.load("body.png")
-POMME = pygame.image.load("pomme.png")
-CADRE = pygame.image.load("cadre.png")
-LOGO = pygame.image.load("logo.png")
-MAP = pygame.image.load("map.png")
-FOND_W = pygame.image.load("fond_w.png")
-OVER = pygame.image.load("over.png")
-I_FOND = pygame.image.load("intro_f.png")
-I_LOGO = pygame.image.load("intro_s.png")
-I_IMAGE = pygame.image.load("intro_i.png")
+HEAD = pygame.image.load("images/head.png")
+FOND_B = pygame.image.load("images/fond.png")
+BODY = pygame.image.load("images/body.png")
+POMME = pygame.image.load("images/pomme.png")
+CADRE = pygame.image.load("images/cadre.png")
+LOGO = pygame.image.load("images/logo.png")
+MAP = pygame.image.load("images/map.png")
+FOND_W = pygame.image.load("images/fond_w.png")
+OVER = pygame.image.load("images/over.png")
+I_FOND = pygame.image.load("images/intro_f.png")
+I_LOGO = pygame.image.load("images/intro_s.png")
+I_IMAGE = pygame.image.load("images/intro_i.png")
 
 # SON :
 #######
